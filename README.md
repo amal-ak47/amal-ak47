@@ -63,7 +63,7 @@ I'm a **full-stack developer** who thrives on turning ideas into functional, pol
 
 ## 📊 GitHub Stats
 
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amal-ak47&show_icons=true&theme=radical)
+![Amal's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=amal-ak47&show_icons=true&theme=radical)
 
 ---
 

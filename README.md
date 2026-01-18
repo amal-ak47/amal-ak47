@@ -63,15 +63,7 @@ I'm a **full-stack developer** who thrives on turning ideas into functional, pol
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-ak47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-ak47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-ak47&theme=radical&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4)
-
-</div>
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amal-ak47&show_icons=true&theme=radical)
 
 ---
 
